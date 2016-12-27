@@ -1,0 +1,386 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getSel",
+				"getSelectedText"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"loc",
+				"localhost"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mahfuz/Projects/myWebsite"
+	],
+	"file_history":
+	[
+		"/home/mahfuz/Projects/links/app/Link.php",
+		"/home/mahfuz/Projects/links/resources/views/welcome.blade.php",
+		"/var/www/html/links/resources/views/submit.blade.php",
+		"/var/www/html/links/routes/web.php",
+		"/home/mahfuz/Projects/links/tests/features/LinkTest.php",
+		"/home/mahfuz/Projects/links/database/factories/ModelFactory.php",
+		"/home/mahfuz/Projects/links/database/seeds/LinksTableSeeder.php",
+		"/home/mahfuz/Projects/links/tests/unit/SeederTest.php",
+		"/home/mahfuz/Projects/links/database/migrations/2016_12_26_044507_create_links_table.php",
+		"/var/www/html/links/tests/ExampleTest.php",
+		"/var/www/html/links/tests/unit/SeederTest.php",
+		"/home/mahfuz/Projects/links/.env",
+		"/home/mahfuz/Projects/links/config/database.php",
+		"/home/mahfuz/Projects/laracode/resources/views/welcome.blade.php",
+		"/home/mahfuz/Projects/laracode/resources/assets/sass/app.scss",
+		"/home/mahfuz/Projects/laracode/config/database.php",
+		"/home/mahfuz/Projects/laracode/resources/assets/js/components/Example.vue",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/views/tmp/footer.php",
+		"/home/mahfuz/Projects/keipuro_tu_demo/templates/fontend/js/word.js",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/views/Word/index.php",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/models/Mword.php",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/controllers/Wordapp.php",
+		"/home/mahfuz/Projects/laracode/initializr/css/bootstrap.css.map",
+		"/home/mahfuz/Projects/keipuro_tu_demo/templates/fontend/libraries/ckeditor/plugins/preview/plugin.js",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/views/Login/index.php",
+		"/run/user/1000/gvfs/sftp:host=jacosaws/home/jacos/public_html/jacos_shaikh/keipuro_tu_demo/application/config/database.php",
+		"/home/mahfuz/Desktop/keipuro_tu_demo/application/config/database.php",
+		"/run/user/1000/gvfs/sftp:host=jacosaws/home/jacos/public_html/jacos_shaikh/keipuro_tu_demo/application/config/config.php",
+		"/home/mahfuz/Projects/keipuro_tu_demo/templates/fontend/libraries/ckeditor/config.js",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/helpers/title_helper.php",
+		"/home/mahfuz/Projects/keipuro_tu_demo/templates/fontend/css/style_cke.css",
+		"/home/mahfuz/Projects/keipuro_tu_demo/templates/fontend/libraries/ckeditor/plugins/preview/lang/ja.js",
+		"/home/mahfuz/Projects/keipuro_tu_demo/templates/fontend/libraries/ckeditor/plugins/preview/preview.html",
+		"/home/mahfuz/Projects/ckeditor/plugins/doNothing/doNothing.js",
+		"/home/mahfuz/Projects/ckeditor/plugins/doNothing/config.js",
+		"/home/mahfuz/Projects/ckeditor/config.js",
+		"/home/mahfuz/Projects/ckeditor/samples/index.html",
+		"/home/mahfuz/Projects/ckeditor/plugins/about/dialogs/about.js",
+		"/home/mahfuz/Projects/ckeditor/plugins/dialog/dialogDefinition.js",
+		"/home/mahfuz/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/views/tmp/modal.php",
+		"/home/mahfuz/Desktop/vb.log",
+		"/home/mahfuz/Projects/keipuro_tu_demo/templates/fontend/js/base.js",
+		"/home/mahfuz/Projects/keipuro_tu_demo/templates/fontend/js/hiragana.js",
+		"/home/mahfuz/Projects/keipuro_tu_demo/templates/fontend/js/fmail.js",
+		"/home/mahfuz/Projects/keipuro_tu_demo/templates/fontend/js/mail.js",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/views/Word/send_mail.php",
+		"/home/mahfuz/Desktop/vb.py",
+		"/home/mahfuz/Projects/phpvirtualbox/README.md",
+		"/home/mahfuz/Projects/phpvirtualbox/config.php",
+		"/home/mahfuz/Projects/phpvirtualbox/endpoints/api.php",
+		"/home/mahfuz/.config/sublime-text-3/Packages/SublimeLinter/Default (Linux).sublime-keymap",
+		"/home/mahfuz/Projects/phpvirtualbox/index.html",
+		"/home/mahfuz/Projects/phpvirtualbox/config.php-example",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/helpers/getip_helper.php",
+		"/home/mahfuz/Projects/keipuro_tu_demo/templates/fontend/js/wanakana.js",
+		"/home/mahfuz/Projects/phptube/PhpTube.php",
+		"/home/mahfuz/Projects/phptube/index.php",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/third_party/index.html",
+		"/home/mahfuz/Projects/index.php",
+		"/home/mahfuz/Projects/logout.php",
+		"/home/mahfuz/Projects/login.php",
+		"/home/mahfuz/Projects/Remembermein.php",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/controllers/Login.php",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/models/Muser.php",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/views/Login/welcome_message.php",
+		"/home/mahfuz/StudioProjects/markers/COPYING",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/config/config.php",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/config/database.php",
+		"/home/mahfuz/Downloads/word.sql",
+		"/home/mahfuz/Desktop/keipuro_tu_demo/application/controllers/Wordapp.php",
+		"/home/mahfuz/Desktop/keipuro_tu_demo/application/models/Mword.php",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/views/tmp/header.php",
+		"/home/mahfuz/.vim/bundle/vim-colorschemes/colors/atom-dark-256.vim",
+		"/home/mahfuz/.vim/bundle/vim-colorschemes/colors/wombat256.vim",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/controllers/Limit.php",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/config/constants.php",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/libraries/save2Navi.php",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/libraries/save00915Navi.php",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/libraries/091611Navi.php",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/libraries/Navi.php",
+		"/home/mahfuz/Projects/chat-app/index.js",
+		"/home/mahfuz/Projects/chat-app/index.html",
+		"/home/mahfuz/Projects/chat-app/package.json",
+		"/run/user/1000/gvfs/sftp:host=jacosaws/home/jacos/public_html/jacos_shaikh/keipuro_tu_demo/application/controllers/Wordapp.php",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/views/tmp/footerlogin.php",
+		"/home/mahfuz/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/mahfuz/Projects/keipuro_tu_demo/application/views/tmp/layout.php",
+		"/var/www/html/keipuro_tu_demo/templates/fontend/js/word.js",
+		"/var/www/html/keipuro_tu_demo/application/controllers/Wordapp.php",
+		"/var/www/html/keipuro_tu_demo/application/views/tmp/footer.php",
+		"/home/mahfuz/Projects/laracode/routes/web.php",
+		"/run/user/1000/gvfs/sftp:host=jacosaws/home/jacos/public_html/jacos_shaikh/keipuro_tu_demo/application/models/Mword.php",
+		"/run/user/1000/gvfs/sftp:host=jacosaws/home/jacos/public_html/jacos_shaikh/keipuro_tu_demo/application/views/tmp/footer.php",
+		"/run/user/1000/gvfs/sftp:host=jacosaws/home/jacos/public_html/jacos_shaikh/keipuro_tu_demo/application/views/Word/index.php",
+		"/run/user/1000/gvfs/sftp:host=jacosaws/home/jacos/public_html/jacos_shaikh/keipuro_tu_demo/application/views/tmp/modal.php",
+		"/home/mahfuz/Projects/stock_out_dev0822/index.php",
+		"/home/mahfuz/Projects/stock_out_dev0822/_main.php",
+		"/home/mahfuz/Projects/keipuro_tu_demo/templates/fontend/libraries/ckeditor/ckeditor.js",
+		"/var/www/html/keipuro_tu_demo/application/views/tmp/modal.php",
+		"/var/www/html/keipuro_tu_demo/application/models/Mword.php",
+		"/var/www/html/keipuro_tu_demo/application/libraries/Navi.php",
+		"/var/www/html/keipuro_tu_demo/application/views/Word/index.php",
+		"/var/www/html/keipuro_tu_demo/templates/fontend/libraries/ckeditor/config.js",
+		"/var/www/html/keipuro_tu_demo/templates/fontend/libraries/ckeditor/ckeditor.js",
+		"/var/www/html/keipuro_tu_demo/index.php",
+		"/var/www/html/keipuro_tu_demo/application/views/tmp/header.php",
+		"/var/www/html/keipuro_tu_demo/application/views/tmp/limit.php",
+		"/home/mahfuz/Desktop/mysql-utilities-1.6.4/setup.py",
+		"/home/mahfuz/jacosphone/AndroidManifest.xml",
+		"/home/mahfuz/Desktop/mysql-utilities-1.6.4/README.txt",
+		"/home/mahfuz/jacosphone/src/jp/co/jacos/jacosphone/MyApplication.java",
+		"/home/mahfuz/jacosphone1/app/src/main/java/jp/co/jacos/jacosphone/menu/TopMenuActivity.java",
+		"/home/mahfuz/image_loader.py",
+		"/home/mahfuz/Downloads/image_loader.py",
+		"/home/mahfuz/Downloads/test.py",
+		"/home/mahfuz/Downloads/Untitled.ipynb",
+		"/home/mahfuz/.oh-my-zsh/themes/robbyrussell.zsh-theme",
+		"/home/mahfuz/.oh-my-zsh/custom/themes/powerlevel9k/powerlevel9k.zsh-theme",
+		"/home/mahfuz/.bashrc",
+		"/home/mahfuz/jacosphone/project.properties",
+		"/home/mahfuz/jacosphone/.classpath",
+		"/home/mahfuz/jacosphone/.project",
+		"/home/mahfuz/jacosphone/gradlew.bat",
+		"/home/mahfuz/jacosphone/gradlew",
+		"/home/mahfuz/Desktop/1.mp3",
+		"/var/www/html/keipuro_tu_demo/templates/fontend/js/notify.js",
+		"/var/www/html/keipuro_tu_demo/templates/fontend/js/base.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"/home/mahfuz/Projects/keipuro_tu_demo",
+			"/home/mahfuz/Projects/keipuro_tu_demo/application",
+			"/var/www/html/keipuro_tu_demo,/home/mahfuz/Projects/stock_out_dev0822",
+			"/var/www/html/keipuro_tu_demo",
+			"/var/www/html/keipuro_tu_demo/application/views"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"edit_file",
+			"select_file",
+			"nvt-2",
+			"nvt-1",
+			"new_txt",
+			"614",
+			"txt",
+			"ceil",
+			"alert",
+			"Write minimum",
+			"get_title",
+			"$txt",
+			"list-files",
+			"ajaxmodal",
+			"list-files",
+			"get_title",
+			"name_word",
+			"navi_word",
+			"btn-nvt-2",
+			"aconten",
+			"is_ajax_request",
+			"&#93;",
+			"&#91;",
+			"&#93;",
+			"&#93",
+			"&#91;",
+			"aconten",
+			"acontent",
+			"content",
+			"$arr['title']",
+			"ceil",
+			"new_t",
+			"ORDER BY",
+			"Please fill out this field",
+			"del_ajax_ss",
+			"getListWord",
+			"btn-nvt-1",
+			"respone",
+			"list-files",
+			"btn-nvt-1",
+			"getListWord",
+			"setInterval",
+			"list-files",
+			"btn-nvt-1",
+			"btn-nvt-2",
+			"182",
+			"ＭＳ明朝",
+			"str_id",
+			"close_navi()",
+			"onclick",
+			"HTMLButtonElement.onclick",
+			"var sel",
+			"ASC",
+			"getData",
+			"/usr/local/android-sdk-linux/",
+			"555",
+			"check_create",
+			"check_creat",
+			"DESC",
+			"error_reporting",
+			"display_errors",
+			"This variable must contain the name of your \"system\" directory."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"]",
+			"[",
+			"]",
+			"[",
+			"DESC",
+			"/home/mahfuz/Sdk/",
+			"ASC"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 28.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "",
+	"project": "laravel.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -13,4 +13,10 @@
 
 Route::get('/', 'PagesController@index');
 Route::get('/about', 'PagesController@about');
-Route::get('/contact', 'PagesController@contact');
+Route::get('/contact', 'TicketsController@create');
+Route::get('/tickets', 'TicketsController@index');
+Route::get('/ticket/{slug?}', 'TicketsController@show');
+Route::get('/ticket/{slug?}/edit','TicketsController@edit');
+
+Route::post('/contact', 'TicketsController@store');
+Route::post('/ticket/{slug?}/edit','TicketsController@update');

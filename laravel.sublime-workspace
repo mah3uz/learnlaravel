@@ -143,12 +143,12 @@
 	],
 	"file_history":
 	[
+		"/home/mahfuz/.homestead/Homestead.yaml",
 		"/home/mahfuz/Projects/myWebsite/app/Http/Controllers/PagesController.php",
 		"/home/mahfuz/Projects/myWebsite/.gitignore",
 		"/home/mahfuz/.vagrant.d/insecure_private_key",
 		"/home/mahfuz/.ssh/id_rsa.pub",
 		"/home/mahfuz/.homestead/after.sh",
-		"/home/mahfuz/.homestead/Homestead.yaml",
 		"/home/mahfuz/Homestead/Vagrantfile",
 		"/home/mahfuz/.homestead/aliases",
 		"/home/mahfuz/.gitconfig",
@@ -464,7 +464,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1425.0,
+						"translation.y": 1444.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

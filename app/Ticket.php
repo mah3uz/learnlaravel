@@ -7,12 +7,12 @@ use Illuminate\Database\Eloquent\Model;
 class Ticket extends Model
 {
     //Tickets Model
-    // public function user(){
-    // 	return $this->belongsTo('App/User');
-    // }
+    //protected $fillable = ['title', 'content', 'slug', 'status', 'user_id'];
 
-    // public function getTitle(){
-    // 	return $this->title();
-    // }
-    protected $fillable = ['title', 'content', 'slug', 'status', 'user_id'];
+    protected $guarded = ['id'];
+
+    public function comments()
+	{
+	    return $this->hasMany('App\Comment', 'post_id');
+	}
 }
